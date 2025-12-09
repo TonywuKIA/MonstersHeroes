@@ -37,6 +37,4 @@ On Windows (PowerShell):
 Default heroes/monsters/items are loaded from `datas/` text files (`Warriors.txt`, `Paladins.txt`, `Sorcerers.txt`, `Dragons.txt`, `Exoskeletons.txt`, `Spirits.txt`, `Weaponry.txt`, `Armory.txt`, `Potions.txt`, `IceSpells.txt`, `FireSpells.txt`, `LightningSpells.txt`).
 
 ## Known limitations
-- No save/load; console-only logging.
-- Balance is simplified (damage/defense/dodge formulas are basic).
 - Durability is fixed (3 uses) and does not read from data files.
